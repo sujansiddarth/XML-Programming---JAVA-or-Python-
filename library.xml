@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="001">
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <publisher>Charles Scribner's Sons</publisher>
+    <publishedDate>1925-04-10</publishedDate>
+  </book>
+  <book id="002">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <publisher>J. B. Lippincott and Co.</publisher>
+    <publishedDate>1960-07-11</publishedDate>
+  </book>
+  <book id="003">
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <publisher>T. Egerton, Whitehall</publisher>
+    <publishedDate>1813-01-28</publishedDate>
+  </book>
+  <author id="001">
+    <name>F. Scott Fitzgerald</name>
+    <nationality>American</nationality>
+    <birthDate>1896-09-24</birthDate>
+    <deathDate>1940-12-21</deathDate>
+  </author>
+  <author id="002">
+    <name>Harper Lee</name>
+    <nationality>American</nationality>
+    <birthDate>1926-04-28</birthDate>
+    <deathDate>2016-02-19</deathDate>
+  </author>
+  <author id="003">
+    <name>Jane Austen</name>
+    <nationality>English</nationality>
+    <birthDate>1775-12-16</birthDate>
+    <deathDate>1817-07-18</deathDate>
+  </author>
+</library>
